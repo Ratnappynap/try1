@@ -373,7 +373,7 @@ justify-self:center;
   font-family: 'Raleway-Bold';
   font-weight: bold;
   color: #01353E;
-  width:100%;
+  width:80%;
   height: 56px;
   font-size: 44px;
 text-align: center;
@@ -391,7 +391,9 @@ align-content: center;
 }
 .rent-cards{
 margin: 0 auto;
-justify-content: center;
+display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
 width: 84%;
 }
 .rent-title{
@@ -660,7 +662,9 @@ align-content: center;
 }
 .rent-cards{
 margin: 0 auto;
-justify-content: center;
+display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
 width: 84%;
 }
 .rent-title{
@@ -920,7 +924,9 @@ align-content: center;
 }
 .rent-cards{
 margin: 0 auto;
-justify-content: center;
+display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
 width: 84%;
 }
 .rent-title{
@@ -1182,7 +1188,9 @@ align-content: center;
 }
 .rent-cards{
 margin: 0 auto;
-justify-content: center;
+display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
 width: 84%;
 }
 .rent-title{
@@ -1442,7 +1450,9 @@ align-content: center;
 }
 .rent-cards{
 margin: 0 auto;
-justify-content: center;
+display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
 width: 94%;
 }
 .rent-title{
@@ -1701,7 +1711,9 @@ align-content: center;
 }
 .rent-cards{
 margin: 0 auto;
-justify-content: center;
+display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
 width: 94%;
 }
 .rent-title{
@@ -1963,7 +1975,9 @@ align-content: center;
 .rent-cards{
 
 margin: 0 auto;
-justify-content: center;
+display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
 width: 80%;
 }
 .rent-title{
@@ -2224,9 +2238,12 @@ align-content: center;
 }
 .rent-cards{
 margin: 0 auto;
-
-justify-content: center;
-width: 80%;
+  width: 100%;
+  max-width: 320px;
+  margin: 0 auto;
+display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
 }
 .rent-title{
   
@@ -2269,14 +2286,14 @@ font-size: 12px;
 }
 .rent-card-standart{
 
-padding: 7px 21px 7px 10px   ;
+ padding: 13px 26px  10px 26px   ;
 width: 90%;
   height:100%;
   background-color:#F8F8F8;
 }
 
 .rent-card-all{
-  padding: 8px 33px 9px  10px   ;
+   padding: 13px 26px  20px 26px   ;
  width: 90%;
   height:100%;
   background-color:#F8F8F8;
