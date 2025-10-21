@@ -363,8 +363,9 @@ body {
 .rent{
  font-family: 'RobotoCondensed-Regular';
 justify-self:center;
-margin:0 auto;
-  width: 768px;
+ width: 100%;
+  max-width: 1024px; 
+  margin: 0 auto;
 }
 
 .subtitle{
@@ -632,8 +633,9 @@ body{
 .rent{
  font-family: 'RobotoCondensed-Regular';
 justify-self:center;
-   margin:0 auto;
-  width: 768px;
+     width: 100%;
+  max-width: 768px; 
+  margin: 0 auto;
 }
 
 .subtitle{
@@ -890,8 +892,9 @@ body {
 .rent{
  font-family: 'RobotoCondensed-Regular';
 justify-self:center;
-   margin:0 auto;
-  width: 100%;
+    width: 100%;
+  max-width: 500px; 
+  margin: 0 auto;
 }
 
 .subtitle{
@@ -1152,8 +1155,9 @@ body {
 .rent{
  font-family: 'RobotoCondensed-Regular';
 justify-self:center;
-     margin:0 auto;
-  width: 425px;
+      width: 100%;
+  max-width: 425px; 
+  margin: 0 auto;
 }
 
 .subtitle{
@@ -1411,8 +1415,9 @@ body {
 .rent{
  font-family: 'RobotoCondensed-Regular';
 justify-self:center;
-    margin:0 auto;
-  width: 375px;
+     width: 100%;
+  max-width: 375px; 
+  margin: 0 auto;
 }
 
 .subtitle{
@@ -1669,8 +1674,9 @@ body {
 .rent{
  font-family: 'RobotoCondensed-Regular';
 justify-self:center;
-  margin:0 auto;
-  width: 360px;
+ width: 100%;
+  max-width: 360px; 
+  margin: 0 auto;
 }
 
 .subtitle{
@@ -1929,8 +1935,9 @@ body {
 .rent{
  font-family: 'RobotoCondensed-Regular';
 justify-self:center;
-   margin:0 auto;
-  width: 320px;
+   width: 100%;
+  max-width: 350px; 
+  margin: 0 auto;
 }
 
 .subtitle{
@@ -2189,8 +2196,9 @@ body {
 .rent{
  font-family: 'RobotoCondensed-Regular';
 justify-self:center;
-  margin:0 auto;
-  width: 320px;
+  width: 100%;
+  max-width: 320px; 
+  margin: 0 auto;
 }
 
 .subtitle{
