@@ -372,7 +372,7 @@ margin:0 auto;
   font-family: 'Raleway-Bold';
   font-weight: bold;
   color: #01353E;
-  width:100%;
+
   height: 56px;
   font-size: 44px;
 text-align: center;
@@ -384,7 +384,7 @@ align-content: center;
 .subtitle p{  
       font-family: 'Raleway-Bold';
    font-size: 44px;
-    
+    width:80%;
   margin:0 auto;
   width: 100%;
 }
@@ -404,7 +404,7 @@ width: 84%;
 }
 .rent-ul{
 
-  width: 750px;
+  width: 100%;
   list-style:none;
 }
 .rent-li{
@@ -641,7 +641,7 @@ justify-self:center;
   font-family: 'Raleway-Bold';
   font-weight: bold;
   color: #01353E;
-  width:80%;
+ width:80%;
   height: 56px;
   font-size: 38px;
 text-align: center;
@@ -654,7 +654,7 @@ align-content: center;
       font-family: 'Raleway-Bold';
    font-size: 38px;
   margin:0 auto;
-  width: 90%;
+ width:80%;
 }
 .rent-cards{
 margin: 0 auto;
@@ -672,7 +672,7 @@ width: 84%;
 }
 .rent-ul{
 
-  width: 420px;
+  width: 100%;
   list-style:none;
 }
 .rent-li{
@@ -899,7 +899,7 @@ justify-self:center;
   font-family: 'Raleway-Bold';
   font-weight: bold;
   color: #01353E;
-  width:80%;
+
   height: 100%;
   font-size: 30px;
 text-align: center;
@@ -913,7 +913,7 @@ align-content: center;
    font-size: 30px;
   margin:0 auto;
 
-  width: 90%;
+ width:80%;
 }
 .rent-cards{
 margin: 0 auto;
@@ -1161,7 +1161,7 @@ justify-self:center;
   font-family: 'Raleway-Bold';
   font-weight: bold;
   color: #01353E;
-  width:80%;
+
   height: 100%;
   font-size: 24px;
 text-align: center;
@@ -1174,7 +1174,7 @@ align-content: center;
       font-family: 'Raleway-Bold';
    font-size: 24px;
   margin:0 auto;
-  width: 90%;
+  width:80%;
 }
 .rent-cards{
 margin: 0 auto;
@@ -1192,7 +1192,7 @@ width: 84%;
 }
 .rent-ul{
 
-  width: 350px;
+  width: 100%;
   list-style:none;
 }
 .rent-li{
@@ -1420,7 +1420,7 @@ justify-self:center;
   font-family: 'Raleway-Bold';
   font-weight: bold;
   color: #01353E;
-  width:100%;
+
   height: 100%;
   font-size: 24px;
 text-align: center;
@@ -1433,7 +1433,7 @@ align-content: center;
       font-family: 'Raleway-Bold';
    font-size: 24px;
   margin:0 auto;
-  width: 70%;
+ width:80%;
 }
 .rent-cards{
 margin: 0 auto;
@@ -1451,7 +1451,7 @@ width: 94%;
 }
 .rent-ul{
 
-  width: 300px;
+   width: 100%;
   list-style:none;
 }
 .rent-li{
@@ -1678,7 +1678,7 @@ justify-self:center;
   font-family: 'Raleway-Bold';
   font-weight: bold;
   color: #01353E;
-  width:90%;
+
   height: 100%;
   font-size: 24px;
 text-align: center;
@@ -1691,7 +1691,7 @@ align-content: center;
       font-family: 'Raleway-Bold';
    font-size: 24px;
   margin:0 auto;
-  width: 70%;
+  width:80%;
 }
 .rent-cards{
 margin: 0 auto;
@@ -1709,7 +1709,7 @@ width: 94%;
 }
 .rent-ul{
 
-  width: 300px;
+  width: 100%;
   list-style:none;
 }
 .rent-li{
@@ -1938,7 +1938,7 @@ justify-self:center;
   font-family: 'Raleway-Bold';
   font-weight: bold;
   color: #01353E;
-  width:80%;
+ 
   height: 100%;
   font-size: 24px;
 text-align: center;
@@ -1970,7 +1970,7 @@ width: 80%;
 }
 .rent-ul{
 
-  width: 250px;
+  width: 100%;
   list-style:none;
 }
 .rent-li{
@@ -2198,7 +2198,7 @@ justify-self:center;
   font-family: 'Raleway-Bold';
   font-weight: bold;
   color: #01353E;
-  width:30%;
+ 
  height: 100%;
   font-size: 24px;
 text-align: center;
@@ -2231,7 +2231,7 @@ width: 80%;
 }
 .rent-ul{
 
-  width: 240px;
+  width: 100%;
   list-style:none;
 }
 .rent-li{
